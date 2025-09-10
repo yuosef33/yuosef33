@@ -1,4 +1,4 @@
-<img width="256" height="256" alt="image" src="https://github.com/user-attachments/assets/5afd8565-684b-4300-924b-9b118a5d6937" /><h1 align="center">I'm Yuose Jamal</h1>
+<h1 align="center">I'm Yuose Jamal</h1>
 <h3 align="center">Software Engineer (Java Backend Developer)</h3>
 
 <h3 align="left">Languages and Tools:</h3>
