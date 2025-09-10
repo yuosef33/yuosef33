@@ -17,6 +17,7 @@
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
 <div >
   Contact me:
+   <br>
 <a href="jamlyuosef0@gmail.com" target="_blank" rel="noreferrer">  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Gmail-Dark.svg" alt="Gmail" width="20" height="20"/> jamalyuosef0@gmail.com </a>
   <br>
   <a href="https://www.linkedin.com/in/yuosefjamal33/" target="_blank" rel="noreferrer">
