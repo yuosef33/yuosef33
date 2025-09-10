@@ -14,18 +14,15 @@
   <br>
     <img src="https://user-images.githubusercontent.com/74038190/215283039-83bf4f37-3fe5-4d25-a42a-249d1a7e9e4f.gif" alt="" width="150" height="120"/>
   </div>
-    <br>
-      <br>
-        <br>
-          <br>
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
 <div >
-  <h3>Contact me</h3>
-<a href="jamlyuosef0@gmail.com" target="_blank" rel="noreferrer">  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Gmail-Dark.svg" alt="Gmail" width="30" height="30"/> jamalyuosef0@gmail.com </a>
+  Contact me:
+<a href="jamlyuosef0@gmail.com" target="_blank" rel="noreferrer">  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Gmail-Dark.svg" alt="Gmail" width="20" height="20"/> jamalyuosef0@gmail.com </a>
   <br>
   <a href="https://www.linkedin.com/in/yuosefjamal33/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/LinkedIn.svg" alt="LinkedIn" width="80" height="80"/>
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/LinkedIn.svg" alt="LinkedIn" width="20" height="20"/>
     yuosefjamal33
   </a>
 </div>
-
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
     
