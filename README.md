@@ -11,8 +11,8 @@
 <div align="center">
   currently learning Spring-microservices architecture 
   <br>
+  <br>
+    <img src="https://user-images.githubusercontent.com/74038190/215283039-83bf4f37-3fe5-4d25-a42a-249d1a7e9e4f.gif" alt="" width="150" height="120"/>
   </div>
-   <br>
-    <br>
-  <img src="https://user-images.githubusercontent.com/74038190/215283039-83bf4f37-3fe5-4d25-a42a-249d1a7e9e4f.gif" alt="" width="40" height="40"/>
-
+  
+    
