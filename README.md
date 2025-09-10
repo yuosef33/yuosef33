@@ -6,3 +6,9 @@
 <a href="https://maven.apache.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Maven-Dark.svg" alt="Maven" width="40" height="40"/> </a>
 </p>
 
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+<div align="center">
+  currently learning Spring-microservices architecture 
+  <img src="https://user-images.githubusercontent.com/74038190/215283039-83bf4f37-3fe5-4d25-a42a-249d1a7e9e4f.gif" alt="" width="40" height="40"/>
+</div>
