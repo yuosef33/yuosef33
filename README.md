@@ -16,35 +16,36 @@ location: Egypt
 
 <br>
 
-<h2 align="center">🚀 Tech Stack</h2>
+
+<h2 align="center"> Tech Stack</h2>
 
 <!-- ================= Backend ================= -->
 <h3 align="center">🧠 Backend</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,maven,redis" height="65"/>
+  <img src="https://skillicons.dev/icons?i=java,spring,maven,express,nodejs" height="130" style="margin:15px;" />
 </p>
 
 <!-- ================= Databases ================= -->
 <h3 align="center">🗄️ Databases</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,supabase" height="65"/>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,supabase,redis" height="130" style="margin:15px;" />
 </p>
 
 <!-- ================= DevOps ================= -->
 <h3 align="center">⚙️ DevOps & Cloud</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,docker,jenkins,terraform,ansible,linux,git" height="65"/>
+  <img src="https://skillicons.dev/icons?i=aws,docker,jenkins,terraform,ansible,linux,git" height="130" style="margin:15px;" />
 </p>
 
 <!-- ================= Frontend ================= -->
 <h3 align="center">🎨 Frontend</h3>
 <p align="center">
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="65"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="65"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="65"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="65"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="65"/>
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/tailwind_css.png" height="65"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="70" style="margin:12px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="70" style="margin:12px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="70" style="margin:12px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="70" style="margin:12px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="70" style="margin:12px;" />
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/tailwind_css.png" height="70" style="margin:12px;" />
 </p>
 
 <br>
